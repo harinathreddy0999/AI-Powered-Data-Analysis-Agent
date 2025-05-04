@@ -1,0 +1,38 @@
+# Environment and virtual environment
+.env
+venv/
+env/
+.venv/
+ENV/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# User uploaded data (except samples in data/)
+/uploaded_data/
+
+# Streamlit specific
+.streamlit/secrets.toml 

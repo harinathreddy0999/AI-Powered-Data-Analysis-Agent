@@ -1,0 +1,35 @@
+Date,Region,Product,Category,Sales,Quantity,Discount
+2023-01-15,North,Laptop,Electronics,1299.99,5,0.1
+2023-01-16,South,Smartphone,Electronics,899.95,8,0.05
+2023-01-20,East,Tablet,Electronics,649.50,12,0.15
+2023-01-22,West,Headphones,Electronics,199.99,20,0.0
+2023-01-25,North,Desk Chair,Furniture,249.99,3,0.1
+2023-01-28,South,Office Desk,Furniture,499.95,2,0.2
+2023-02-02,East,Bookshelf,Furniture,189.99,4,0.0
+2023-02-05,West,Coffee Table,Furniture,149.50,6,0.1
+2023-02-10,North,Notebook,Stationery,12.99,50,0.0
+2023-02-12,South,Pens (Pack),Stationery,8.99,100,0.05
+2023-02-15,East,Printer Paper,Stationery,24.95,30,0.1
+2023-02-20,West,Stapler,Stationery,15.99,25,0.0
+2023-03-01,North,Monitor,Electronics,349.99,10,0.15
+2023-03-05,South,Keyboard,Electronics,89.95,15,0.1
+2023-03-10,East,Mouse,Electronics,49.99,25,0.05
+2023-03-15,West,Sofa,Furniture,899.99,1,0.2
+2023-03-20,North,Dining Table,Furniture,599.95,2,0.1
+2023-03-25,South,File Cabinet,Furniture,199.50,5,0.0
+2023-04-01,East,Markers,Stationery,7.99,60,0.0
+2023-04-05,West,Calendar,Stationery,14.95,40,0.1
+2023-04-10,North,TV,Electronics,1499.99,3,0.15
+2023-04-15,South,Speaker,Electronics,129.95,12,0.05
+2023-04-20,East,Lamp,Furniture,79.99,8,0.1
+2023-04-25,West,Binder,Stationery,6.99,75,0.0
+2023-05-01,North,Smartphone,Electronics,999.99,6,0.1
+2023-05-05,South,Laptop,Electronics,1199.95,4,0.15
+2023-05-10,East,Coffee Table,Furniture,159.50,5,0.05
+2023-05-15,West,Pens (Pack),Stationery,9.99,90,0.0
+2023-05-20,North,Tablet,Electronics,599.99,7,0.2
+2023-05-25,South,Office Desk,Furniture,479.95,3,0.1
+2023-06-01,East,Headphones,Electronics,189.50,15,0.05
+2023-06-05,West,Bookshelf,Furniture,199.99,4,0.1
+2023-06-10,North,Printer Paper,Stationery,22.95,35,0.0
+2023-06-15,South,Monitor,Electronics,329.99,8,0.15 
